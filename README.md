@@ -1,3 +1,19 @@
-The project aimed to combine various tables using SQL Server Management Studio (SSMS) to create a unified table for easier visualization and analysis. After identifying and joining the relevant tables based on common keys, the consolidated table served as a central data repository. This consolidation simplified access and analysis, eliminating the need for repetitive complex queries.
+Project Title: End-to-End Revenue and Units Analysis with SQL, Power BI, and Tableau
 
-Power BI & tableau dashboard was then developed to make the consolidated data visually accessible and appealing. The dashboard featured interactive visual elements such as charts, graphs, and tables, allowing users to filter data, drill down into specifics, and gain insights quickly. This enhanced interactivity facilitated better decision-making and data-driven strategies by making the data more comprehensible and actionable.
+Objective: Analyze and visualize revenue and units data from a SQL Server sample database using SQL, Power BI, and Tableau.
+
+Business Problem: The business needed to understand their revenue and units data comprehensively to make informed decisions and drive growth.
+
+Solution:
+
+Data Extraction and Transformation: Used SQL queries to extract and clean data.
+Revenue Dashboard in Power BI: Visualized metrics like total revenue, revenue by category, and region.
+Units Insight Dashboard in Tableau: Analyzed metrics such as total units sold, units by category, and region.
+Integration and Reporting: Combined dashboards for seamless navigation and automated reporting.
+Key Benefits:
+
+Enhanced data analysis for better decision-making.
+Improved and interactive visualizations.
+Time savings through automation.
+Scalable solution for larger datasets.
+Conclusion: The project successfully provided valuable insights and streamlined reporting, empowering informed business decisions.

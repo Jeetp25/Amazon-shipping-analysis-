@@ -1,4 +1,4 @@
-Project Title: End-to-End Revenue and Units Analysis with SQL, Power BI, and Tableau
+Project Title: End-to-End Revenue and Units Analysis 
 
 Objective: Analyze and visualize revenue and units data from a SQL Server sample database using SQL, Power BI, and Tableau.
 
